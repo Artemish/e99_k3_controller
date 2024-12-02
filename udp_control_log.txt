@@ -1,0 +1,174 @@
+Listening on UDP port 7099...
+
+Packet structure: 3066 [Data] 99
+
+Baseline state: [Header] 8080 8080 4040 [End]
+Headless mode:  [Header] 8080 8080 5050 [End]
+
+TURNING ON THROTTLE
+
+DATA: Baseline
+
+SPEED 100%
+
+FULL UP
+DATA: [Header] 8080 d6 8040 16 [End]
+DATA: [Header] 8080 de 8040 1e [End]
+DATA: [Header] 8080 ea 8040 2a [End]
+DATA: [Header] 8080 f6 8040 36 [End]
+DATA: [Header] 8080 ff 8040 3f [End]
+DATA: Baseline
+
+FULL DOWN
+DATA: [Header] 8080 69 8040 a9 [End]
+DATA: [Header] 8080 38 8040 f8 [End]
+DATA: [Header] 8080 1a 8040 da [End]
+DATA: [Header] 8080 00 8040 c0 [End]
+DATA: Baseline
+
+FULL LEFT ROTATE
+
+DATA: [Header] 8080 7b46 407d [End]
+DATA: [Header] 8080 792d 4014 [End]
+DATA: [Header] 8080 720c 403e [End]
+DATA: [Header] 8080 6f01 402e [End]
+DATA: [Header] 8080 6e01 402f [End]
+DATA: [Header] 8080 6f01 402e [End]
+DATA: [Header] 8080 7001 4031 [End]
+DATA: [Header] 8080 7101 4030 [End]
+DATA: [Header] 8080 7201 4033 [End]
+DATA: [Header] 8080 7301 4032 [End]
+DATA: [Header] 8080 7401 4035 [End]
+DATA: [Header] 8080 7501 4034 [End]
+DATA: [Header] 8080 7601 4037 [End]
+DATA: [Header] 8080 7701 4036 [End]
+DATA: [Header] 8080 7801 4039 [End]
+DATA: [Header] 8080 7901 4038 [End]
+DATA: Baseline
+
+FULL RIGHT ROTATE
+
+DATA: [Header] 8080 74b1 4085 [End]
+DATA: [Header] 8080 74d3 40e7 [End]
+DATA: [Header] 8080 74f4 40c0 [End]
+DATA: [Header] 8080 74ff 40cb [End]
+DATA: [Header] 8080 75ff 40ca [End]
+DATA: [Header] 8080 76ff 40c9 [End]
+DATA: [Header] 8080 77ff 40c8 [End]
+DATA: [Header] 8080 78ff 40c7 [End]
+DATA: [Header] 8080 79ff 40c6 [End]
+DATA: [Header] 8080 7aff 40c5 [End]
+DATA: [Header] 8080 7bff 40c4 [End]
+DATA: [Header] 8080 7cff 40c3 [End]
+DATA: [Header] 8080 7dff 40c2 [End]
+DATA: [Header] 8080 7cff 40c3 [End]
+DATA: [Header] 8080 7eff 40c1 [End]
+DATA: Baseline
+
+ONE TOUCH TAKEOFF
+
+DATA: [Header] 8080 8080 4141 [End]
+DATA: Baseline
+
+ONE TOUCH LANDING
+
+DATA: [Header] 8080 8080 4242 [End]
+DATA: Baseline
+
+EMERGENCY STOP
+
+DATA: [Header] 8080 8080 4444 [End]
+DATA: Baseline
+
+HEADLESS ON:
+DATA: [Header] 8080 8080 5050 [End]
+
+HEADLESS OFF:
+DATA: Baseline
+
+CALIBRATION
+DATA: [Header] 8080 8080 c0c0 [End]
+DATA: Baseline
+
+RIGHT STICK FULL ROTATION
+
+DATA: [Header] 2565 808040 00 [End]
+DATA: [Header] 1473 808040 27 [End]
+DATA: [Header] 018c 808040 cd [End]
+DATA: [Header] 019f 808040 de [End]
+DATA: [Header] 01b1 808040 f0 [End]
+DATA: [Header] 01c4 808040 85 [End]
+DATA: [Header] 14d5 808040 81 [End]
+DATA: [Header] 25df 808040 ba [End]
+DATA: [Header] 37e7 808040 90 [End]
+DATA: [Header] 45eb 808040 ee [End]
+DATA: [Header] 53f0 808040 e3 [End]
+DATA: [Header] 62f3 808040 d1 [End]
+DATA: [Header] 80fb 808040 3b [End]
+DATA: [Header] 91fb 808040 2a [End]
+DATA: [Header] 9df9 808040 24 [End]
+DATA: [Header] a7f6 808040 11 [End]
+DATA: [Header] b9ed 808040 14 [End]
+DATA: [Header] c5e4 808040 61 [End]
+DATA: [Header] d1d6 808040 47 [End]
+DATA: [Header] dcc0 808040 5c [End]
+DATA: [Header] e0b1 808040 11 [End]
+DATA: [Header] e49e 808040 3a [End]
+DATA: [Header] e596 808040 33 [End]
+DATA: [Header] e592 808040 37 [End]
+DATA: [Header] e590 808040 35 [End]
+DATA: [Header] e58e 808040 2b [End]
+DATA: [Header] e68a 808040 2c [End]
+DATA: [Header] e687 808040 21 [End]
+DATA: [Header] e685 808040 23 [End]
+DATA: [Header] e782 808040 25 [End]
+DATA: [Header] e77f 808040 d8 [End]
+DATA: [Header] e67b 808040 dd [End]
+DATA: [Header] e578 808040 dd [End]
+DATA: [Header] e474 808040 d0 [End]
+DATA: [Header] e370 808040 d3 [End]
+DATA: [Header] e06d 808040 cd [End]
+DATA: [Header] e06a 808040 ca [End]
+DATA: [Header] dd65 808040 f8 [End]
+DATA: [Header] dc62 808040 fe [End]
+DATA: [Header] db5f 808040 c4 [End]
+DATA: [Header] d95c 808040 c5 [End]
+DATA: [Header] d95b 808040 c2 [End]
+DATA: [Header] d959 808040 c0 [End]
+DATA: [Header] d757 808040 c0 [End]
+DATA: [Header] d755 808040 c2 [End]
+DATA: [Header] d754 808040 c3 [End]
+DATA: [Header] d653 808040 c5 [End]
+DATA: [Header] d652 808040 c4 [End]
+DATA: [Header] d552 808040 c7 [End]
+DATA: [Header] d551 808040 c4 [End]
+DATA: [Header] d450 808040 c4 [End]
+DATA: [Header] d34e 808040 dd [End]
+DATA: [Header] d34d 808040 de [End]
+DATA: [Header] d24d 808040 df [End]
+DATA: [Header] d24c 808040 de [End]
+DATA: [Header] d24b 808040 d9 [End]
+DATA: [Header] cf49 808040 c6 [End]
+DATA: [Header] c942 808040 cb [End]
+DATA: [Header] c43f 808040 bb [End]
+DATA: [Header] bd3a 808040 c7 [End]
+DATA: [Header] b637 808040 c1 [End]
+DATA: [Header] a42e 808040 ca [End]
+DATA: [Header] 8b21 808040 ea [End]
+DATA: [Header] 7a1e 808040 24 [End]
+DATA: [Header] 6c20 808040 0c [End]
+DATA: [Header] 5a25 808040 3f [End]
+DATA: [Header] 482e 808040 26 [End]
+DATA: [Header] 3236 808040 44 [End]
+DATA: [Header] 263e 808040 58 [End]
+DATA: [Header] 2042 808040 22 [End]
+DATA: [Header] 1647 808040 11 [End]
+DATA: [Header] 0c4c 808040 00 [End]
+DATA: [Header] 0550 808040 15 [End]
+DATA: [Header] 015a 808040 1b [End]
+DATA: [Header] 0162 808040 23 [End]
+DATA: [Header] 0166 808040 27 [End]
+DATA: [Header] 016b 808040 2a [End]
+DATA: [Header] 016d 808040 2c [End]
+DATA: [Header] 0172 808040 33 [End]
+DATA: Baseline
