@@ -13,7 +13,22 @@ some kind. Saved as single packet capture for replaying with Scapy.
 *controller_port_8800.pcap*: Collection of Controller to the Drone's
 alternate address *192.168.169.1* on port 8800
 
-*Drone_experiment.pcap*: Single packet containint the heartbeat message (*4802000000*) for replaying with Scapy
+*Drone_experiment.pcap*: Collection of messages sent during an
+experiment of the following flight plan implemented on the app for the
+purposes of replaying a sample flight plan. The following steps occur
+at the following times:
+
+Setup: Close KY Ufo, start packet capture app
+
+```
+00: Start stopwatch, start packet capture
+10: Start the KY UFO app
+20: Start the drone
+30: Connect to drone wifi
+50: Touch calibration button
+60: Turn on throttle controls in the app
+70: Press the one-touch takeoff, then press the one-touch landing
+```
 
 *PCAPdroid_02_Dec_13_46_06.pcap*: Capture of controller and drone
 traffic collected directly from the smartphone app (KY UFO) using the
